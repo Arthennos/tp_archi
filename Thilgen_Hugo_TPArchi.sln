@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thilgen_Hugo_TPArchi", "Thilgen_Hugo_TPArchi.csproj", "{4E0A3238-CCC2-4AFA-9882-7AAF3A8293D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E0A3238-CCC2-4AFA-9882-7AAF3A8293D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E0A3238-CCC2-4AFA-9882-7AAF3A8293D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E0A3238-CCC2-4AFA-9882-7AAF3A8293D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E0A3238-CCC2-4AFA-9882-7AAF3A8293D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D18A9A23-A68F-464C-AF9D-06F0D691E123}
+	EndGlobalSection
+EndGlobal
